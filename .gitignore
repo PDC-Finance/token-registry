@@ -1,6 +1,8 @@
 node_modules
 set_config_folder_dir
 yarn-error.log
+.env
+.env*
 *.iml
 .idea
 /src/contracts
@@ -16,3 +18,7 @@ yarn-error.log
 coverage.json
 .openzeppelin/
 config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
